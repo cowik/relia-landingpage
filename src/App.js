@@ -6,7 +6,6 @@ import Whyus from './components/whyus';
 import Cliens from './components/cliens';
 import Services from './components/services';
 import Features from './components/features';
-import Portofolio from './components/portofolio';
 import Team from './components/team';
 import Contact from './components/contact';
 import Footer from './components/footer';
@@ -33,7 +32,6 @@ export class App extends Component {
         <Cliens />
         <Services />
         <Features />
-        <Portofolio />
         <Team />
         <Contact />
         <Footer />
