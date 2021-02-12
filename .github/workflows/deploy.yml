@@ -31,8 +31,7 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: 22
           script: |
-            sudo su
-            cd /data/reliasolusiputra
+            cd /home/cowik/prod/reliasolusiputra
             git pull origin master
             npm install
             npm run build

@@ -12,7 +12,7 @@ export class Team extends Component {
                 <div className="col-lg-4">
                     <div className="member">
                     <div className="member-img">
-                        <img src="img/team/oki-profile.jpg" className="img-fluid" alt />
+                        <img src="img/team/oki.png" className="img-fluid" alt />
                         <div className="social">
                         <a href><i className="bi bi-twitter" /></a>
                         <a href><i className="bi bi-facebook" /></a>
@@ -46,7 +46,7 @@ export class Team extends Component {
                 <div className="col-lg-4">
                     <div className="member">
                     <div className="member-img">
-                        <img src="img/team/wikrama-profile.jpg" className="img-fluid" alt />
+                        <img src="img/team/wikrama.png" className="img-fluid" alt />
                         <div className="social">
                         <a href><i className="bi bi-twitter" /></a>
                         <a href><i className="bi bi-facebook" /></a>
