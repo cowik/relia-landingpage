@@ -31,7 +31,7 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: 22
           script: |
-            cd /home/cowik/prod/reliasolusiputra
+            cd /home/cowik/prod/relia-landingpage
             git pull origin master
             npm install
             npm run build
