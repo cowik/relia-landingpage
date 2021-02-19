@@ -9,13 +9,13 @@ export class Features extends Component {
                 <div className="col-lg-3 col-md-4">
                     <div className="icon-box">
                         <i className="ri-store-line" style={{color: '#ffbb2c'}} />
-                        <h3><a href>System analysis</a></h3>
+                        <h3><a href>System Analysis</a></h3>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-4 mt-4 mt-md-0">
                     <div className="icon-box">
                         <i className="ri-bar-chart-box-line" style={{color: '#5578ff'}} />
-                        <h3><a href>Business Process</a></h3>
+                        <h3><a href>Internet & LAN Management</a></h3>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-4 mt-4 mt-md-0">
@@ -33,7 +33,7 @@ export class Features extends Component {
                 <div className="col-lg-3 col-md-4 mt-4">
                     <div className="icon-box">
                         <i className="ri-database-2-line" style={{color: '#47aeff'}} />
-                        <h3><a href>E-business solutions</a></h3>
+                        <h3><a href>E-business Solutions</a></h3>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-4 mt-4">
@@ -57,19 +57,19 @@ export class Features extends Component {
                 <div className="col-lg-3 col-md-4 mt-4">
                     <div className="icon-box">
                         <i className="ri-account-pin-circle-fill" style={{color: '#b2904f'}} />
-                        <h3><a href>Production operations</a></h3>
+                        <h3><a href>Production Operations</a></h3>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-4 mt-4">
                     <div className="icon-box">
                         <i className="ri-24-hours-line" style={{color: '#b20969'}} />
-                        <h3><a href>Project support</a></h3>
+                        <h3><a href>Project Support</a></h3>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-4 mt-4">
                     <div className="icon-box">
                         <i className="ri-24-hours-line" style={{color: '#ff5828'}} />
-                        <h3><a href>Standby support</a></h3>
+                        <h3><a href>Standby Support</a></h3>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-4 mt-4">
